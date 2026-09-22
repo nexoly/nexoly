@@ -1,30 +1,78 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=true&width=735&lines=Welcome+To+Sardar+IT.;Your+Vision%2C+Our+Code.;Smart+Software.+Strong+Results.;Engineering+the+Future+of+Business.)](https://git.io/typing-svg)
 
-# Hi, I'm Mamunur Roshid! 👋
-I'm passionated to working with cutting-edge technologies to build modern web and mobile applications. We specialize in full-stack development, creative solutions, and digital innovation.  
+# Hi, I'm Mamunur Roshid 👋
+### Full-Stack Developer | Web & Mobile Application Developer
+
+I build modern web applications, mobile apps, APIs, and business platforms for clients and businesses worldwide.
+
+My development work covers frontend, backend, mobile applications, CMS platforms, API integrations, and custom software solutions.
 
 ---
 
-## 💻 Technologies I Work With
+## 🚀 What I Build
 
-<p align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" style="margin:5px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="60" height="60" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="60" height="60" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="60" height="60" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" width="60" height="60" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS" width="60" height="60" style="margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60" style="margin:5px"/>
-  <img src="https://github.com/sardarit-bd/sardarit-bd/blob/main/wordpress-removebg-preview.png" alt="WordPress" width="60" height="60" style="margin:5px"/>
-</p>
-
+* 🌐 Custom Web Applications
+* 📱 iOS & Android Applications
+* ⚛️ React & Next.js Applications
+* 🔧 Node.js & Laravel Backends
+* 🔌 REST APIs & Third-Party Integrations
+* 🛒 E-commerce Platforms
+* 📝 WordPress & Custom CMS Solutions
+* 🗄️ Database-Driven Applications
+* 📊 Business Dashboards & Management Systems
 
 ---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+`React` `Next.js` `JavaScript` `HTML5` `CSS3`
+
+### Backend
+
+`Node.js` `Express.js` `Laravel` `PHP`
+
+### Mobile
+
+`Flutter` `Dart`
+
+### Database
+
+`MySQL` `PostgreSQL` `MongoDB` `Firebase`
+
+### Tools & Services
+
+`Git` `GitHub` `Docker` `REST API` `Firebase`
+
+---
+
+## 📌 Featured Work
+
+### 🌐 Web Applications
+
+Responsive websites, dashboards, portals, e-commerce platforms, and custom business applications.
+
+### 📱 Mobile Applications
+
+Cross-platform iOS and Android applications built with Flutter, including API integrations, authentication, payments, notifications, and business features.
+
+### 🔌 Backend & API Development
+
+REST APIs, authentication systems, database architecture, third-party integrations, and custom backend services.
+
+---
+
+## 💼 Services
+
+* Full-Stack Web Development
+* Flutter Mobile App Development
+* React / Next.js Development
+* Node.js / Laravel Development
+* WordPress Development
+* API Development & Integration
+* E-commerce Development
+* Website Redesign & Modernization
 
 ## 🌟 My Mission
 
@@ -57,17 +105,20 @@ I follow a structured workflow to ensure quality and timely delivery for all pro
 
 ---
 
-## 📫 Connect With Us
+## 📊 GitHub Activity
 
-<p align="center">
-  <a href="https://bd.linkedin.com/in/mamun212021" target="_blank">
-     <img src="https://img.shields.io/badge/Mamunur_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/nexoly" target="_blank">
-        <img src="https://img.shields.io/badge/Mamunur_GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+I use GitHub to build, maintain, and experiment with web, mobile, and backend projects.
 
 ---
 
-*Made with ❤️ by **Zunaid***
+## 📫 Let's Connect
+
+💼 **Upwork:** [Upwork Profile](https://www.upwork.com/freelancers/~01d02daab12302c28d)
+
+🎨 **Fiverr:** [Fiverr Profile](https://www.fiverr.com/nexoly18)
+
+💼 **LinkedIn:** [LinkedIn Profile](https://bd.linkedin.com/in/mamun212021)
+
+---
+
+### Thanks for visiting my profile!
